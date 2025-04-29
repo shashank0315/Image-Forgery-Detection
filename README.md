@@ -26,4 +26,4 @@ The project utilizes the **CASIA2 dataset**, containing:
 - **5,123 Tampered Images** (Copy-Move, Splicing)  
 
 ## 📊 Results
-This project achieved an accuracy of **90%** and **97.9%** of recall value in finding whether the input image is forged or not.
+This project achieved an accuracy of **93%** and **97.9%** of recall value in finding whether the input image is forged or not.
